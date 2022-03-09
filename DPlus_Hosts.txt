@@ -1,5 +1,5 @@
 # DPlus_Hosts.txt
-# Updated 03/08/2022 Additional information at end of file.
+# Updated 03/09/2022 Additional information at end of file.
 REF000  ref000.xlxreflector.org
 REF001	ref001.dstargateway.org
 REF002	ref002.dstargateway.org
@@ -629,3 +629,4 @@ ZL1CCT  131.203.121.107
 ZL1IBD  202.36.75.248
 
 #EOF
+#Maintained by W8EDC
