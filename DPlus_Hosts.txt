@@ -1,7 +1,5 @@
 # DPlus_Hosts.txt
-# This list has been compiled for the projects created by David PA7LIM
-# DONOT MESSAGE THE ARRG.US CLUB FACEBOOK ACCOUNT !!!
-# Updated 02/23/2022 Additional information at end of file.
+# Updated 03/08/2022 Additional information at end of file.
 REF000 ref000.xlxreflector.org
 REF001	ref001.dstargateway.org
 REF002	ref002.dstargateway.org
@@ -631,13 +629,3 @@ ZL1CCT 131.203.121.107
 ZL1IBD 202.36.75.248\
 
 #EOF
-# Maintained and hosted by Steve NO9S
-# eMail changes to no9s@xlxreflector.org any emailed to any of my other address will be ignored.
-# DONOT MESSAGE THE ARRG.US CLUB FACEBOOK ACCOUNT !!!
-# The format of this file is the name of the reflector followed by its
-# IP address or dns name.I prefer to have DNS name as then the changes are easier to keep up with
-# when reporting changes to me add this information
-# Some information may have been sourced from. Adrian vk4tux.
-# Please add @xlxreflector.org - to accepted domains to tour gmail account or check spam folder corespondence 
-
-
