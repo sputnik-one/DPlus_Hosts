@@ -13,19 +13,12 @@ to:
 
 curl --fail -o ${DPlusHOSTS} -s https://raw.githubusercontent.com/sputnik-one/DPlus_Hosts/main/DPlus_Hosts.txt --user-agent "Pi-Star_${pistarCurVersion}"
 
-.
+e.g. :
 
-.
 
-.
+![HostFilesUpdate](https://user-images.githubusercontent.com/80602259/157476981-bed192a6-87d0-4b21-b411-08b3bf02de03.jpg)
 
-.
 
-.
-
-.
-
-.
 
 
 Q: Will this break things?
